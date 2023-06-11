@@ -1,0 +1,74 @@
+body{
+  background-image: url(/img/body.jpg);
+}
+
+
+#certification span{
+  
+   padding:10px 20px 10px 20px;
+
+
+}
+#education span{
+   padding:10px 20px 5px 20px;
+
+}
+
+
+
+
+
+#header a:hover{
+  color:#ccc;
+}
+#about{
+  margin-top: 20px;
+  padding:200px;
+}
+#about .fa{
+  color:#fff;
+}
+#about .fa:hover{
+  color:blue;
+}
+#about span{
+  padding:10px 20px 5px 20px;
+}
+#about hr{
+  border-width: 2px;
+ 
+  margin-top: 06px;
+}
+#skills span{
+  font-size: bold;
+   padding:10px 20px 5px 20px;
+ 
+
+}
+#skills hr{
+  border-width: 200px;
+ 
+  margin-top: 06px;
+
+}
+#project p{
+
+  background-color: antiquewhite;
+  font-size: bold;
+
+}
+#education table{
+ 
+  border-style: groove;
+  
+}
+.container span{
+   padding:10px 20px 10px 20px;
+
+}
+.container img{
+  align-items: center;
+  margin:20px;
+  padding:20px
+
+}
